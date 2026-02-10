@@ -130,8 +130,8 @@ I'm always interested in connecting with:
 - [Type of person or opportunity 4]
 
 **Reach me:**
-- **Email:** [daxtonlt@gmail.com]
-- **GitHub:** [@dtho9636](https://github.com/your-username](https://github.com/dtho9636)
-- **LinkedIn:** [Daxton Thorne](https://linkedin.com/in/your-profile](https://www.linkedin.com/in/daxton-thorne-56a159365?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+- **Email:** daxtonlt@gmail.com
+- **GitHub:** @dtho9636 (https://github.com/dtho9636)
+- **LinkedIn:** Daxton Thorne (https://www.linkedin.com/in/daxton-thorne-56a159365?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 *Last Updated: [February 2026]*
