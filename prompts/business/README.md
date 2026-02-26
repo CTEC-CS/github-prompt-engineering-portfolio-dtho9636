@@ -1,30 +1,26 @@
-# [Prompt Name]
-> *[One sentence describing what this prompt does]*
+# Business Idea Analysis
+> *This prompt generates an output to help entrepreneurs decide if their business idea is worth pursuing.*
 ## Overview
-[Write 2-3 paragraphs explaining:]
-- What this prompt produces
-- What problem it solves
-- Who would find this useful
-- What makes it effective
+This prompt produces an output containing an analysis of the current market, a list of feasability risks, and a list of competitors. This prompt solves the problem of pursuing a business idea that are likely to fail, preventing entrepreneurs from wasting time, money, and resources on a bad idea.
+
+This prompt is useful for deciding whether or not to go forward with a business idea. It is effective because it the output gives a detailed overview of the current market, including listed out competitors and risks so that the user can make an informed decision.
+
 **Best For:**
-- [Use case 1]
-- [Use case 2]
-- [Use case 3]
-- [Use case 4]
-**Output:** [Description of typical output - length, format, style]
+- Someone with a full time job notices a gap in the market for a specific service but isn’t sure if it’s a viable option.
+- Someone is meeting with a potential business partner and wants to sound prepared about their idea.
+- Someone has a broad idea but isn’t exactly sure who they are up against in the market.
+**Output:** The output is concise and informative, with simple language and listed examples so the user can make a final decision.
 ---
 ## Quick Start
 ### 1. Copy the prompt
 Open [`prompt.md`](./prompt.md) and copy the entire template.
 ### 2. Fill in placeholders
 Replace these with your specific information:
-- `[PLACEHOLDER_1]` - [What to put here]
-- `[PLACEHOLDER_2]` - [What to put here]
-- `[PLACEHOLDER_3]` - [What to put here]
+- `[BUSINESS IDEA]` - Put the idea your are interested in pursuing.
 ### 3. Run in your LLM
 Paste into Gemini, Claude, ChatGPT, or your preferred model.
 ### 4. Review and adapt
-[Guidance on how to use and customize the output]
+Add more placeholders, or alter the constraints to get your preferred output.
 ---
 ## Example Use Cases
 See the `examples/` folder for three complete demonstrations:

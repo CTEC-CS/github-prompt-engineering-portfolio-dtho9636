@@ -1,40 +1,31 @@
-# [Prompt Name] Template
-## Instructions for Use -- DELETE WHEN USING FOR ACTUAL PROMPT
-This is only an example prompt template, so you may customize it to fit your
-prompt.
-However, your prompt here must at the very least include:
-- Description of the prompt's purpose and usage
-- A TASK statement of what the AI to do
-- Your actual prompt, organized in meaningful categories, such as Context, Output,
-Format, Constraints, etc.
-- You must include [PLACEHOLDER] in square brackets and in caps.
----
+# Business Idea Analysis Template
+
 ## The Prompt
-[If using a role definition, include it here:]
-You are [ROLE DESCRIPTION with expertise areas and approach].
+“You are a Business Consultant, and I am considering launching a [BUSINESS IDEA]. Conduct an analysis of the current market by identifying multiple potential competitors. Then, list 5 potential risks for the feasibility of my business idea. Use casual language that can be understood by anyone inside or outside of my business space. As an example, you could outline 3 different competitors and explain how they could prove troublesome for my business, and then list out the risks in bullet points with short explanations.”
 **TASK:**
-[Clear statement of what you want the AI to do]
+The purpose of this prompt is to make the AI generate a response that helps entrepreneurs who are struggling with finding an effective business idea.
 **Context/Input:**
-[List the placeholders the user needs to fill:]
-- **[PLACEHOLDER_1]:** [DESCRIPTION]
-- **[PLACEHOLDER_2]:** [DESCRIPTION]
-- **[PLACEHOLDER_3]:** [DESCRIPTION]
+- **[BUSINESS IDEA]:** This placeholder is where the user puts the idea they are considering.
 ---
 **ADDITIONAL INPUT/CONTEXT:**
-### [Subsection 1]
-[Specific instructions or questions for the AI to address]
-- [Detail point 1]
-- [Detail point 2]
-- [Detail point 3]
-[Add as many sections as needed for your prompt structure]
+### Market Analysis
+- Conducts an analysis of the current market
+
+### Potential Risks
+- Lists risks that could arise from the user's business idea
+
+### Outline Competitors
+- Lists current competitors in the market
+- Explains why the competitors could be troublesome
+
+
 ---
 **OUTPUT REQUIREMENTS:**
 **Format:**
-- [Formatting requirement 1]
+- Format output in a way that can be understood by anyone in any field.
+- Lists risks in bullet points with explanations
 **Constraints:**
-- [Constraint 1 that guides AI behavior]
-- [Constraint 2 that ensures quality]
-- [Constraint 3 that maintains focus]
-- [Constraint 4 about scope or limitations]
+- Lists 5 risks
+- Outlines 3 different competitors
 **Tone/Style:**
-[Description of desired tone and writing style]
+Simple to understand language.
