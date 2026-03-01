@@ -1,40 +1,28 @@
-# [Prompt Name] Template
-## Instructions for Use -- DELETE WHEN USING FOR ACTUAL PROMPT
-This is only an example prompt template, so you may customize it to fit your
-prompt.
-However, your prompt here must at the very least include:
-- Description of the prompt's purpose and usage
-- A TASK statement of what the AI to do
-- Your actual prompt, organized in meaningful categories, such as Context, Output,
-Format, Constraints, etc.
-- You must include [PLACEHOLDER] in square brackets and in caps.
----
+# Media Content Strategy Generator Template
+
 ## The Prompt
-[If using a role definition, include it here:]
-You are [ROLE DESCRIPTION with expertise areas and approach].
+"Working as a Creative Content Strategist, your purpose is to help me promote [PRODUCT]. Create a bundle consisting of: one engaging 200 word blog introduction, three instagram captions, and a 30 second script for a short-form video that highlights the main benefit of my product. List each section separately with a short paragraph explaining your reasoning for the choices you made when generating each of the 3 expected texts."
 **TASK:**
-[Clear statement of what you want the AI to do]
+This prompt generates a variety of promotions for a user to test advertising their product.
 **Context/Input:**
-[List the placeholders the user needs to fill:]
-- **[PLACEHOLDER_1]:** [DESCRIPTION]
-- **[PLACEHOLDER_2]:** [DESCRIPTION]
-- **[PLACEHOLDER_3]:** [DESCRIPTION]
+- **[PRODUCT]:** This placeholder is where the user puts the product they want to promote.
 ---
 **ADDITIONAL INPUT/CONTEXT:**
-### [Subsection 1]
-[Specific instructions or questions for the AI to address]
-- [Detail point 1]
-- [Detail point 2]
-- [Detail point 3]
-[Add as many sections as needed for your prompt structure]
+### Blog Introduction
+- Creates a 200 word blog introduction to the product.
+
+### Instagram Post Captions
+- Creates three instagram captions for the user to test.
+
+### 30-Second Script
+- Generates a script for a short-form video to highlight the benefits of the product.
 ---
 **OUTPUT REQUIREMENTS:**
 **Format:**
-- [Formatting requirement 1]
+- Each section is lised seperately with a short paragraph of reasoning.
 **Constraints:**
-- [Constraint 1 that guides AI behavior]
-- [Constraint 2 that ensures quality]
-- [Constraint 3 that maintains focus]
-- [Constraint 4 about scope or limitations]
+- 200 word blog
+- Exactly 3 captions
+- 30 Second Script
 **Tone/Style:**
-[Description of desired tone and writing style]
+Informational Tone.

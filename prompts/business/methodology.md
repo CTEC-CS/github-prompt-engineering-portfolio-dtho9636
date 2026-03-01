@@ -120,7 +120,7 @@ The current version balances simplicity and usability. Additional variables woul
 - ROLE Framework
 - Structured output constraint methodology
 **Learning Sources:**
-- Role Frameworks PDF.
+- Prompt Frameworks PDF.
 ---
 *This methodology document demonstrates my design thinking and decision-making
 process.*
