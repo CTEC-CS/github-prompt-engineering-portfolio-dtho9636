@@ -24,51 +24,48 @@ Add more placeholders, or alter the constraints to get your preferred output.
 ---
 ## Example Use Cases
 See the `examples/` folder for three complete demonstrations:
-1. **[Example 1 Name](./examples/example-1.md)** - [Brief description]
-2. **[Example 2 Name](./examples/example-2.md)** - [Brief description]
-3. **[Example 3 Name](./examples/example-3.md)** - [Brief description]
-Each example shows the filled prompt and resulting output.
+1. **[Car Services](./examples/Car Services.md)** - Mobile Car Detaling and Ceramic Coating Service
+2. **[Meal Plan](./examples/Meal Plan.md)** - AI-powered Meal Plan App that Generates Weekly Grocery Lists
+3. **[Office Supplies](./examples/Office Supplies.md)** - Sustainable Office Supply Subscription Service
 ---
 ## What Makes This Prompt Effective
-**[Key Feature 1]:** [Explanation of why this structural choice works]
-**[Key Feature 2]:** [Explanation of why this structural choice works]
-**[Key Feature 3]:** [Explanation of why this structural choice works]
-**[Key Feature 4]:** [Explanation of why this structural choice works]
+**ROLE Framework:** I used the ROLE framework. It is an appropriate framework for this task because it allows me to incorporate a role for the chatbot, which will lead to a response similar to an actual business consultant.
+**Organized Structure:** I structure my prompt this way because I wanted to get a reply that was specific and detailed. I included the role, objective, language, and an example in my prompt to get an output that was detailed and still easy to understand.
+**Reusability:** My prompt is clear and reusable because it details exactly how the AI should respond, and gives the AI a “mindset” to format the reply in, resulting in an effective response.
+**Clear Constraints:** I outlined my prompt with a requirement that the AI provides a certain number of risks in its reply, in a form of “constraint.” The reason I did this is because I don’t want the AI response to be too long or too short, so specifying a concrete number of risks gives just the right amount of output to look through and keeps replies consistent.
 ---
 ## Customization Tips
-**For [Different Context/Industry 1]:**
-[Specific adjustments to make]
-**For [Different Context/Industry 2]:**
-[Specific adjustments to make]
-**For [Different Audience/Purpose]:**
-[Specific adjustments to make]
+**For Technology Startups:**
+Focus competitor analysis on funding stage, product differentiation, user acquisition strategy, and scalability. Include indirect competitors such as open-source alternatives or emerging AI-driven platforms. Emphasize speed to market and innovation cycles.
+**For Retail / E-commerce:**
+Highlight pricing models, supply chain strength, brand positioning, customer loyalty programs, and online marketplace competition. Include local vs. national competitors.
+**For Investors or Formal Presentations:**
+Shift tone from casual to semi-formal. Add basic financial metrics (market size, margins, customer acquisition cost). Replace general language with clearer data-backed reasoning. Include high-level projections and strategic positioning.
 **Adjusting Detail Level:**
-- [How to make output more detailed]
-- [How to make output more concise]
-- [How to focus on specific aspects]
+- Request estimated market size and growth rate, ask for SWOT analysis per competitor, include pricing comparisons and customer segments.
+- Limit competitors to 2–3, restrict risk explanations to one sentence each.
+- Specify geographic region, ask to prioritize operational, legal, or financial risks.
 ---
 ## Limitations & Considerations
 **What This Prompt Does Well:**
-- [Strength 1]
-- [Strength 2]
-- [Strength 3]
+- Generates quick competitive awareness without heavy jargon.
+- Surfaces obvious feasibility risks early.
+- Produces easy-to-digest insights for non-experts.
 **What Requires Human Judgment:**
-- [Limitation 1]
-- [Limitation 2]
-- [Limitation 3]
+- Accuracy of market size and real-time competitor data.
+- Financial modeling and capital requirements.
+- Legal, regulatory, and compliance implications specific to the region.
 **Always:**
-- [Best practice 1]
-- [Best practice 2]
-- [Best practice 3]
+- Validate assumptions with real market research.
+- Cross-check competitor information using current data.
+- Use the output as a starting point, not a final decision document.
 ---
 ## Technical Details
-**Framework:** [Framework used, e.g., R-T-F]
-**Optimal Model:** [Which AI models work best]
-**Average Response Length:** [Typical word count range]
-**Required Placeholders:** [Number and type]
+**Framework:** ROLE
+**Optimal Model:** ChatGPT
+**Average Response Length:** 400-600 Words
+**Required Placeholders:** [BUSINESS IDEA]
 ---
 ## Version History
-**v1.0** ([Date]) - [What was in initial version]
-**v1.1** ([Date]) - [What changed and why]
-**v1.2** ([Date]) - [What changed and why]
+**v1.0** ([3/1/2026])
 ---
