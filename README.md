@@ -15,7 +15,7 @@ I use AI almost daily to help me understand concepts, learn new things, and expe
 This portfolio contains 5 different professionally crafted, tested prompts that I've developed to get effective responses from LLMs. The topics range from business to personal goal building, and can be applied to a wide variety of circumstances. My ultimate goal with this portfolio is to display my prompt-engineering accomplishments and continue to improve my prompts.
 
 My Approach:
-I approached making the prompts using intentional design frameworks and testable scores to improve continuously improve them.
+I approached making the prompts using intentional design frameworks and testable scores to continuously improve them.
 
 ## My Current Focus
 
