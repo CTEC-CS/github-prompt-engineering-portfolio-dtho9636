@@ -20,7 +20,9 @@ The purpose of this prompt is to make the AI generate a response that helps entr
 
 
 ---
-**OUTPUT REQUIREMENTS:**
+### **OUTPUT REQUIREMENTS:**
+
+
 **Format:**
 - Format output in a way that can be understood by anyone in any field.
 - Lists risks in bullet points with explanations
